@@ -1,4 +1,4 @@
--- Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
+-- Sütunların her birine göre diğer sütunları güncelleyecek UPDATE işlemi yapalım.
 
 UPDATE employee
 SET name = 'Anıl',
